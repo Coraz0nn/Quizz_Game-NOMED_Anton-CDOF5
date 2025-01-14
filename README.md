@@ -15,3 +15,48 @@ Follow these steps to get a development environment running:
    ```bash
    git clone https://github.com/your-username/quiz-game.git
    cd quiz-game
+2. (Optional) Create and activate a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate # On Windows: venv\Scripts\activate
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the game:
+   ```bash
+   python quiz_game.py
+
+## Running the test
+This project includes automated tests to verify functionality and coding style.
+
+### End-To-End Tests
+The tests verify that the game correctly handles user input and calculates scores. Run them using: pytest tests/test_quiz_game.py
+
+### Coding Style Tests 
+To ensure consistent code formatting, use a linter like Flake8: flake8 quiz_game.py
+
+## Deployment 
+To deploy the game on a live system, package the project using a Python packaging tool like PyInstaller or host it as a web application with a framework like Flask (future enhancement).
+
+## Build With 
+Built With
+Python - Programming Language
+Pytest - Testing Framework
+
+## Contribution 
+Contributions are welcome! Please read `CONTRIBUTING.md` for details on the code of conduct and submission process.
+
+## Versioning 
+We use [SemVer](https://semver.org/) for versioning. 
+
+## Authors 
+- NOMED Anton - Initial Work - [Coraz0nn](https://github.com/Coraz0nn)
+
+## License 
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Coraz0nn/Quizz_Game-NOMED_Anton-CDOF5/blob/main/LICENSE) file for details
+
+## Acknowledgments
+- Hat tip to Python for making development seamless.
+- Inspiration from various quiz-based games.
+- Special thanks to anyone who reviewed and contributed to the project.
+

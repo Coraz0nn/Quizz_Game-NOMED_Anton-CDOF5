@@ -12,7 +12,7 @@ class Quiz:
         self.display_question()
         self.opts = self.radio_buttons()
         self.display_options()
-        self.buttons()
+        self.buttons
 
     def display_title(self):
         title = Label(gui, text="Quiz Python",

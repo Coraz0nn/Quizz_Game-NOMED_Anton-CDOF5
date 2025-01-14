@@ -50,7 +50,7 @@ Contributions are welcome! Please read `CONTRIBUTING.md` for details on the code
 We use [SemVer](https://semver.org/) for versioning. 
 
 ## Authors 
-- NOMED Anton - Initial Work - [Coraz0nn](https://github.com/Coraz0nn)
+- PINTO Patson
 
 ## License 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Coraz0nn/Quizz_Game-NOMED_Anton-CDOF5/blob/main/LICENSE) file for details

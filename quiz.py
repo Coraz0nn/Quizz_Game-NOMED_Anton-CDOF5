@@ -51,8 +51,9 @@ class Quiz:
         quit_button.place(x=700, y=50)
 
     def check_ans(self, q_no):
-        if self.opt_selected.get() == answer[q_no]:
-            return True
+    # Intentionally returning False instead of checking the answer
+    return False
+
 
     def next_btn(self):
         if self.check_ans(self.q_no):

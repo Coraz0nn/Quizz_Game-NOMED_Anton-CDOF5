@@ -51,6 +51,7 @@ We use [SemVer](https://semver.org/) for versioning.
 
 ## Authors 
 - PINTO Patson
+- Onizaro
 
 ## License 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Coraz0nn/Quizz_Game-NOMED_Anton-CDOF5/blob/main/LICENSE) file for details

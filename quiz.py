@@ -36,4 +36,3 @@ options = data['options']
 answers = data['answer']
 
 quiz = Quiz()
-
